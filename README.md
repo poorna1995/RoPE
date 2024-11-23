@@ -1,7 +1,7 @@
 # Rotary Positional Embedding: !(Paper)[https://arxiv.org/pdf/2410.06205]
 
 ## What is RoPE?
-- RoPE encodes positional information by multiplying the context embeddings (query `q` and key `k`) with rotation matrices based on their absolute positions. This approach allows the inner product of context embeddings to depend solely on their **relative positions** rather than their absolute positions.
+- RoPE encodes positional information by multiplying the context embeddings (query `q` and key `k`) with rotation matrix based on their absolute positions. This approach allows the inner product of context embeddings to depend solely on their **relative positions** rather than their absolute positions.
 - The key feature of RoPE is its ability to capture relative positional information in a way that preserves the context between tokens while improving scalability and efficiency.
 
 
