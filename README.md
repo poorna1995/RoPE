@@ -10,3 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/faa7b1b7-5d7a-483d-b60e-4a1bf7ec215c)
 
+<img width="813" alt="Screenshot 2024-11-23 at 7 56 05 PM" src="https://github.com/user-attachments/assets/a8609438-28b3-42ae-9219-7c40fedfd949">
+<img width="996" alt="Screenshot 2024-11-23 at 7 56 27 PM" src="https://github.com/user-attachments/assets/29302398-74bf-4319-89b5-383253923ccb">
+<img width="1010" alt="Screenshot 2024-11-23 at 7 56 53 PM" src="https://github.com/user-attachments/assets/81b6f994-924c-4c6b-bd2e-cf453e26a4e1">
+##### Reference from: https://www.youtube.com/watch?v=SMBkImDWOyQ
